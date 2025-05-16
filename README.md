@@ -17,6 +17,6 @@ Estrella, Prince Rodni T. - Co-Lead Programmer <br>
 Fortin, Cheryll Anne V. <br>
 Rosario, Al-jay C.
 
-Documentation Video: [TO BE POSTED]
+Documentation Video: https://youtu.be/SBWFd4YtsK4
 
-Full Documentation: [TO BE POSTED]
+Full Documentation: https://drive.google.com/file/d/1DwjqYNg9uPmnWh77Anu2HrEeDpmQEmHX/view
