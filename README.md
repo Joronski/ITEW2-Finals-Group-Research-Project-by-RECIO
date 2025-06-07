@@ -20,3 +20,5 @@ Rosario, Al-jay C.
 Documentation Video: https://youtu.be/SBWFd4YtsK4
 
 Full Documentation: https://drive.google.com/file/d/1DwjqYNg9uPmnWh77Anu2HrEeDpmQEmHX/view
+
+![Recio's Group - ITEW2 Finals Group Research Project (Output)](https://github.com/user-attachments/assets/8035de57-57f1-4ccc-b17e-18041a07802f)
